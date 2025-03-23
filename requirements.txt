@@ -5,3 +5,5 @@ pandas
 requests
 pandas
 pytz
+gtfs-realtime-bindings
+protobuf
